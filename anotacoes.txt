@@ -1,0 +1,11 @@
+Quando o nodemon já esta instalado globalmente::: 
+    > nodemon app.js
+
+Auxiliar com as rotas
+    >
+
+
+    Rascunho rota pizzaria
+    /pizzas
+
+    /pizzas/:busca
